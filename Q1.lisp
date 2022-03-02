@@ -1,4 +1,5 @@
 ;;QUESTION 1
+;;https://rextester.com/RXSF64352
 
 (defun split (list i) 
     (cond
