@@ -1,3 +1,6 @@
+;; q8 - traverse tree in in-order and preorder
+;; https://rextester.com/QHJ14389
+
 (defun in-order (lst)
     (cond
         ((null lst) nil)

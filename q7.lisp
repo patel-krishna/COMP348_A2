@@ -1,3 +1,6 @@
+;;q7 - check if binary search
+;;https://rextester.com/CUKZI89846
+
 (defun getLeftChild (lst)
     (if (null lst) 
         lst
